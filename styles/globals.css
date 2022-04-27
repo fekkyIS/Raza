@@ -1,9 +1,11 @@
+@import url('../public/font/proxima_2/stylesheet.css');
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Proxima Nova Alt Lt';
+    font-weight: 900;
+    font-style: normal;
 }
 
 a {
